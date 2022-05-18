@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BhtGp8V5+XaFAsmyV8ekKCcyMO8RmX8nu8LRXtGbQctKSHqkA9TrZfhR5VsJcNDNfEAqlRZtrf5VqQKqGZZOxA==",
+  "dgSpecHash": "meB3jYEvZ18mZk/h2b1aM0Td0oFBhOej/E1xC6Scw16VAgWNI8S2JqFtlIsU1XV6Atj296nw/x1eGs4pqAd4RQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IFSP\\SP3056325\\LabManager\\LabManager.csproj",
+  "projectFilePath": "C:\\Users\\IFSP\\Desktop\\LabManager\\LabManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IFSP\\.nuget\\packages\\microsoft.data.sqlite\\6.0.5\\microsoft.data.sqlite.6.0.5.nupkg.sha512",
     "C:\\Users\\IFSP\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",

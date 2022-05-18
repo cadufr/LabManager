@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IFSP\\SP3056325\\LabManager\\LabManager.csproj": {}
+    "C:\\Users\\IFSP\\Desktop\\LabManager\\LabManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IFSP\\SP3056325\\LabManager\\LabManager.csproj": {
+    "C:\\Users\\IFSP\\Desktop\\LabManager\\LabManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IFSP\\SP3056325\\LabManager\\LabManager.csproj",
+        "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\LabManager\\LabManager.csproj",
         "projectName": "LabManager",
-        "projectPath": "C:\\Users\\IFSP\\SP3056325\\LabManager\\LabManager.csproj",
+        "projectPath": "C:\\Users\\IFSP\\Desktop\\LabManager\\LabManager.csproj",
         "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IFSP\\SP3056325\\LabManager\\obj\\",
+        "outputPath": "C:\\Users\\IFSP\\Desktop\\LabManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
